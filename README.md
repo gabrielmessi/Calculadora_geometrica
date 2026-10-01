@@ -1,10 +1,10 @@
-#Calculadora Geométrica
+# Calculadora Geométrica
 Calculadora geométrica desenvolvida em Python para realizar cálculos relacionados a quadrados e retângulos através de um menu interativo no terminal.
 
 O projeto foi desenvolvido com o objetivo de praticar lógica de programação, funções, estruturas condicionais, laços de repetição, tratamento de exceções e aplicação de fórmulas matemáticas em Python.
 
-#Funcionalidades
-#Quadrado
+# Funcionalidades
+# Quadrado
 A calculadora permite calcular:
 
 * Área
@@ -13,15 +13,15 @@ A calculadora permite calcular:
 * Raio do círculo inscrito
 * Raio do círculo circunscrito
 
-#Retângulo
+# Retângulo
 A calculadora permite calcular:
 
 * Área
 * Perímetro
 * Diagonal
 
-#Fórmulas utilizadas
-#Quadrado
+# Fórmulas utilizadas
+# Quadrado
 
 Área:
 
@@ -43,7 +43,7 @@ Raio do círculo circunscrito:
 
 R = (L × √2) / 2
 
-#Retângulo
+# Retângulo
 
 Área:
 
@@ -57,7 +57,7 @@ Diagonal:
 
 d = √(b² + h²)
 
-#Tecnologias e conceitos utilizados
+# Tecnologias e conceitos utilizados
 * Python
 * Biblioteca math
 * Funções
@@ -69,7 +69,7 @@ d = √(b² + h²)
 * F-strings
 * Operações matemáticas
 
-#Como executar
+# Como executar
 Tenha o Python instalado no computador.
 
 Clone o repositório:
@@ -84,7 +84,7 @@ Execute o programa:
 
 python calculadora.py
 
-#Exemplo
+# Exemplo
 Ao executar o programa, será apresentado o menu:
 
 ====MENU====
@@ -94,7 +94,7 @@ Ao executar o programa, será apresentado o menu:
 
 Depois de selecionar uma figura, o programa apresenta as operações disponíveis e solicita as medidas necessárias para realizar o cálculo.
 
-#Objetivo do projeto
+# Objetivo do projeto
 Este projeto faz parte dos meus estudos de Python e foi criado para colocar em prática conceitos de programação juntamente com fórmulas matemáticas e geometria.
 
 Pretendo continuar aprimorando o projeto conforme avanço nos meus estudos.
